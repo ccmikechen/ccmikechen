@@ -1,6 +1,6 @@
 # Hello, I'm Mike Chen 😎
 
-### A full-stack developer with a love for Elixir & TypeScript ❤️‍🔥
+### A Backend Developer with a love for Elixir & TypeScript ❤️‍🔥
 
 ### Find me:
 
@@ -8,7 +8,7 @@
 
 **About me**
 
-- 🐵 Full-Stack Developer
+- 🐵 Backend Developer
 - ⚗️ Working professionally with Elixir & TypeScript since 2017
 - 👨‍💻 Started coding since 2012
 
@@ -43,3 +43,7 @@
 **Tools**
 
 ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
+**Family**
+
+<img src="https://github.com/user-attachments/assets/c4727fe4-295f-4347-8a12-3f2f9a21aac7" width="480" height="360">
