@@ -1,6 +1,6 @@
 # Hello, I'm Mike Chen 😎
 
-### A Backend Developer with a love for Elixir & TypeScript ❤️‍🔥
+### A Backend Developer with a love for Ruby & Elixir & TypeScript ❤️‍🔥
 
 ### Find me:
 
@@ -9,24 +9,24 @@
 **About me**
 
 - 🐵 Backend Developer
-- ⚗️ Working professionally with Elixir & TypeScript since 2017
+- ⚗️ Working professionally since 2017
 - 👨‍💻 Started coding since 2012
 
-**I work as**
+**I worked as**
 
 - 🍌 Tech Lead
-- 🐒 Senior Software Developer
+- 🐒 Freelancer
 - 🏃 Scrum Developer
 
 ### My favourite stack ❤️
 
 **Primary Languages**
 
-![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Secondary Languages**
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 **Back-End**
 
